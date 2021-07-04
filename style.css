@@ -1,0 +1,17 @@
+body{
+    background-image: url("tenor.gif");
+    background-color: rgb(241, 245, 248);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h1{
+    color: rgb(61, 10, 90)
+}
+.design{
+    text-align:center;
+    margin-top: 50px;
+}
+img{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
