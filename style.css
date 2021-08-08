@@ -1,10 +1,10 @@
 body{
     background-image: url("tenor.gif");
     background-color: rgb(241, 245, 248);
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
-    color: rgb(61, 10, 90)
+    color: rgb(61, 10, 90);
 }
 .design{
     text-align:center;
@@ -16,7 +16,7 @@ img{
     width: 300px;
 }
 .btn{
-    background-color:#990040;
+    background-color: #990040;
     padding: 10px 40px;
     border-radius: 10px;
     text-decoration: none;
