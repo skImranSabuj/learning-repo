@@ -15,3 +15,11 @@ img{
     height: 300px;
     width: 300px;
 }
+.btn{
+    background-color:#990040;
+    padding: 10px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
